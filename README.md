@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hola como estas! 👋
+Bienvenido a mi Github. Mi nombre es Jian, Programador Web Fullstack JR
 <!--
 **WangJian-114/WangJian-114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
