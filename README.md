@@ -1,4 +1,3 @@
-```md
 ## Buenas! Soy Jian Wang <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40" />
 
 ⚡ Actualmente trabajo como **Senior Full Stack Developer**, con fuerte foco en **Frontend**, producto y desarrollo de soluciones escalables.
@@ -120,4 +119,3 @@ Siempre busco seguir creciendo, mejorar técnicamente y aportar valor real en lo
     <img src="https://img.shields.io/badge/-Portfolio-%23FF5722?style=for-the-badge&logo=firefox&logoColor=white" target="_blank">
   </a>
 </div>
-```
